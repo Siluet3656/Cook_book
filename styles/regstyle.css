@@ -1,0 +1,28 @@
+* {
+	color: #A67C00;
+	background-color:#66A3D2;
+	box-sizing:border-box;
+	text-shadow: 1px 1px 1px #000;
+	text-align: center;
+}
+.main {
+	height: 270px;
+	width: 200px;
+	margin:1 auto;
+	border: 5px solid black;
+	background-color:#25567B;
+	text-decoration: none;
+	position: absolute;
+}
+.ncolor {
+	background-color:#25567B;
+}
+.button {
+	background-color: #183952;
+}
+.maintxt {
+	font-size: 22px;
+}
+.inputtxt {
+font-size: 18px;
+}
